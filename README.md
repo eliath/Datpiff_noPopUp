@@ -7,6 +7,6 @@ To use, just install the script and click the "Listen" button at the top of the 
 This is a greasemonkey script. Install it at [userscripts.org](http://userscripts.org/scripts/show/415452)
 
 If you don't have a userscript add on for your browser, install one of the following:
-[Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
-[Greasemonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
-[JavaScript Blocker for Safari](https://www.macupdate.com/app/mac/42143/javascript-blocker/)
+* [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+* [Greasemonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
+* [JavaScript Blocker for Safari](https://www.macupdate.com/app/mac/42143/javascript-blocker/)
