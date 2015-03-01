@@ -5,7 +5,7 @@
 // @match			http://www.datpiff.com/*-mixtape.*.html*
 // @run-at			document-end
 //
-// @version			2.0
+// @version			2.1
 // 
 // ==/UserScript==
 
